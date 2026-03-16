@@ -1,0 +1,10 @@
+*.h5ad
+*.zip
+*.npy
+*.pth
+*.arrow
+checkpoint/
+lora_finetune_out/
+__pycache__/
+y-itao/
+2_stofm_processed_dlpfc/
